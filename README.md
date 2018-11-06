@@ -2,15 +2,21 @@
 repository of free utilities adopted by UIRD
 
 
+## Design
 https://www.awwwards.com/
 
 
-http://flippingtypical.com/ - comparação de fonte 
-https://github.com/picturepan2/devices.css - css de dispositivos
-https://www.cssmatic.com/ - generators de borda, noise, ...
-https://codepen.io/gyopiazza/pen/BazoG - efeito paralax
-http://www.heropatterns.com/ - gerador de padrões para background
-http://colormind.io/ - gerador de paleta de cores
-https://www.webdesignrankings.com/resources/lolcolors/ - source de paletas de cores
-https://www.canva.com/color-palette/ - gera paleta de cores a partir de imagem
-https://zeplin.io
+- http://flippingtypical.com/ - font comparison for a giving string
+- https://github.com/picturepan2/devices.css - css simulating devices
+- https://www.cssmatic.com/ - generators for bords, noise, ...
+- https://codepen.io/gyopiazza/pen/BazoG - paralax effect
+- http://www.heropatterns.com/ - background pattern generator
+- http://colormind.io/ - color palette generator
+- https://www.webdesignrankings.com/resources/lolcolors/
+- color palette inspiration
+https://www.canva.com/color-palette/ - color palette generated based on an uploaded image
+- https://brandcolors.net/ - color palette of famous brands
+- https://zeplin.io
+
+## Open Data
+- https://www.openml.org/
