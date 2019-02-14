@@ -20,5 +20,8 @@ https://www.canva.com/color-palette/ - color palette generated based on an uploa
 - https://brandcolors.net/ - color palette of famous brands
 - https://zeplin.io
 
+## Dummy para testes
+- https://ethereal.email/ - contas para teste de SMTP
+
 ## Open Data
 - https://www.openml.org/
