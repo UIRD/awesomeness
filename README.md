@@ -25,3 +25,7 @@ https://www.canva.com/color-palette/ - color palette generated based on an uploa
 
 ## Open Data
 - https://www.openml.org/
+
+
+## JS Plugins
+- http://hgoebl.github.io/mobile-detect.js/
