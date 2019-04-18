@@ -27,8 +27,8 @@ https://www.canva.com/color-palette/ - color palette generated based on an uploa
 - [Flipping Typical](http://flippingtypical.com/) - preview comparison between fonts for a given string
 - [Type-Scale](https://type-scale.com/) - Calculate and preview font-size using *em*
 
-## Dummy para testes
-- https://ethereal.email/ - contas para teste de SMTP
+## Testing
+- https://ethereal.email/ - online inbox with SMTP configuration for testing
 
 ## Open Data
 - https://www.openml.org/
