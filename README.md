@@ -5,17 +5,16 @@ repository of free utilities adopted by UIRD
 ## Design
 
 - https://www.awwwards.com/ - reference of awarded website designs
-
+- https://zeplin.io - mock creation with css and assets
 - https://github.com/picturepan2/devices.css - css simulating devices
 - https://www.cssmatic.com/ - generators for bords, noise, ...
 - http://www.heropatterns.com/ - background pattern generator
 - http://colormind.io/ - color palette generator
-- https://www.webdesignrankings.com/resources/lolcolors/
-- color palette inspiration
-https://www.canva.com/color-palette/ - color palette generated based on an uploaded image
-- https://brandcolors.net/ - color palette of famous brands
-- https://zeplin.io
 
+### Color palette inspiration
+- [Brand Colors](https://brandcolors.net/) - color palette of famous brands
+- [Canva color palette](https://www.canva.com/color-palette/) - color palette generated based on an uploaded image
+- [LoL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
 
 ### Free assets 
 - [MixKit](https://mixkit.co/) - free videos assets
@@ -24,6 +23,7 @@ https://www.canva.com/color-palette/ - color palette generated based on an uploa
 - [Unsplash](https://unsplash.com/) - free stock images
 
 ### Typography
+- [Better font finder](https://jmattthew.github.io/better-font-finder/better-font-finder.html) - preview comparison between fonts for a given string
 - [Flipping Typical](http://flippingtypical.com/) - preview comparison between fonts for a given string
 - [Type-Scale](https://type-scale.com/) - Calculate and preview font-size using *em*
 
