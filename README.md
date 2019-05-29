@@ -27,11 +27,14 @@ repository of free utilities adopted by UIRD
 - [Flipping Typical](http://flippingtypical.com/) - preview comparison between fonts for a given string
 - [Type-Scale](https://type-scale.com/) - Calculate and preview font-size using *em*
 
-## Testing
+## Testing and Mocks
 - https://ethereal.email/ - online inbox with SMTP configuration for testing
+- https://reqres.in/ - mock API
 
 ## Open Data
 - https://www.openml.org/
+- https://any-api.com/
+- https://github.com/toddmotto/public-apis
 
 
 ## JS Plugins
