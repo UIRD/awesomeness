@@ -5,6 +5,7 @@ repository of free utilities adopted by UIRD
 ## Design
 
 - https://www.awwwards.com/ - reference of awarded website designs
+- https://www.typewolf.com/ - reference of sites with cool typography
 - https://zeplin.io - mock creation with css and assets
 - https://github.com/picturepan2/devices.css - css simulating devices
 - https://www.cssmatic.com/ - generators for bords, noise, ...
