@@ -33,6 +33,7 @@ repository of free utilities adopted by UIRD
 
 
 ## Testing and Mocks
+- https://via.placeholder.com/ - mock placeholder images adding `/width x height`
 - https://ethereal.email/ - online inbox with SMTP configuration for testing
 - https://reqres.in/ - mock API
 
