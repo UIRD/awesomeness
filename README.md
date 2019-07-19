@@ -6,13 +6,13 @@ repository of free utilities adopted by UIRD
 
 ### Ferramentas
 - [awwwards](https://www.awwwards.com/) - reference of awarded website designs
-- [Adobe Colors](https://color.adobe.com/pt/create/color-wheel/) - 
 - [Zeplin](https://zeplin.io) - mock creation with css and assets
 - https://github.com/picturepan2/devices.css - css simulating devices
 - https://www.cssmatic.com/ - generators for bords, noise, ...
 - [Hero patterns](http://www.heropatterns.com/) - background pattern generator
 
 ### Color
+- [Adobe Colors](https://color.adobe.com/pt/create/color-wheel/) - get palete from selecting colors from wheel
 - [Brand Colors](https://brandcolors.net/) - color palette of famous brands
 - [Canva color palette](https://www.canva.com/color-palette/) - color palette generated based on an uploaded image
 - [LoL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
