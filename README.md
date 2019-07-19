@@ -4,12 +4,13 @@ repository of free utilities adopted by UIRD
 
 ## Design
 
-- https://www.awwwards.com/ - reference of awarded website designs
-- https://www.typewolf.com/ - reference of sites with cool typography
-- https://zeplin.io - mock creation with css and assets
+### Ferramentas
+- [awwwards](https://www.awwwards.com/) - reference of awarded website designs
+- [Adobe Colors](https://color.adobe.com/pt/create/color-wheel/) - 
+- [Zeplin](https://zeplin.io) - mock creation with css and assets
 - https://github.com/picturepan2/devices.css - css simulating devices
 - https://www.cssmatic.com/ - generators for bords, noise, ...
-- http://www.heropatterns.com/ - background pattern generator
+- [Hero patterns](http://www.heropatterns.com/) - background pattern generator
 
 ### Color
 - [Brand Colors](https://brandcolors.net/) - color palette of famous brands
@@ -30,6 +31,7 @@ repository of free utilities adopted by UIRD
 - [Type-Scale](https://type-scale.com/) - Calculate and preview font-size using *em*
 - [Modular Scale](https://www.modularscale.com/) - Sample scales of typography
 - [Practical Typography](https://practicaltypography.com/) - Online book/guide of typography
+- [TypeWorlf](https://www.typewolf.com/) - reference of sites with cool typography
 
 
 ## Testing and Mocks
