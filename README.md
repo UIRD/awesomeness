@@ -4,8 +4,11 @@ repository of free utilities adopted by UIRD
 
 ## Design
 
-### Ferramentas
+### References
 - [awwwards](https://www.awwwards.com/) - reference of awarded website designs
+- [Instagram UX Trends](https://www.instagram.com/ux_trends/) - reference of cool interfaces
+
+### Tools
 - [Zeplin](https://zeplin.io) - mock creation with css and assets
 - https://github.com/picturepan2/devices.css - css simulating devices
 - https://www.cssmatic.com/ - generators for bords, noise, ...
