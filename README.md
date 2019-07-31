@@ -1,6 +1,8 @@
 # awesomeness
 repository of free utilities adopted by UIRD
-
+-[Design](#design)
+-[Testing and Mock](#testing-and-mock)
+-[Open Data](#open-data)
 
 ## Design
 
@@ -41,6 +43,7 @@ repository of free utilities adopted by UIRD
 - https://via.placeholder.com/ - mock placeholder images adding `/width x height`
 - https://ethereal.email/ - online inbox with SMTP configuration for testing
 - https://reqres.in/ - mock API
+- https://crontab.guru/ - check cron tab syntax
 
 ## Open Data
 - https://www.openml.org/
