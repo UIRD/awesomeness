@@ -2,7 +2,7 @@
 repository of free utilities adopted by UIRD
 
 - [Design](#design)
-- [Testing and Mock](#testing-and-mock)
+- [Testing and Mocks](#testing-and-mocks)
 - [Open Data](#open-data)
 
 ## Design
