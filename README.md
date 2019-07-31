@@ -1,8 +1,9 @@
 # awesomeness
 repository of free utilities adopted by UIRD
--[Design](#design)
--[Testing and Mock](#testing-and-mock)
--[Open Data](#open-data)
+
+- [Design](#design)
+- [Testing and Mock](#testing-and-mock)
+- [Open Data](#open-data)
 
 ## Design
 
