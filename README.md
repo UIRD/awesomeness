@@ -45,6 +45,7 @@ repository of free utilities adopted by UIRD
 - https://ethereal.email/ - online inbox with SMTP configuration for testing
 - https://reqres.in/ - mock API
 - https://crontab.guru/ - check cron tab syntax
+- https://webhook.site/ - temporary webhook, to test webhook integrations
 
 ## Open Data
 - https://www.openml.org/
