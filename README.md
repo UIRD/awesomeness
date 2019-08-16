@@ -4,6 +4,7 @@ repository of free utilities adopted by UIRD
 - [Design](#design)
 - [Testing and Mocks](#testing-and-mocks)
 - [Open Data](#open-data)
+- [Technology](#technology)
 
 ## Design
 
@@ -55,3 +56,6 @@ repository of free utilities adopted by UIRD
 
 ## JS Plugins
 - http://hgoebl.github.io/mobile-detect.js/
+
+## Technology
+- [StackShare](https://stackshare.io/stacks) - Stack of technologies and tools adopted by famous companies
