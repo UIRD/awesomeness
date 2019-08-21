@@ -59,3 +59,4 @@ repository of free utilities adopted by UIRD
 
 ## Technology
 - [StackShare](https://stackshare.io/stacks) - Stack of technologies and tools adopted by famous companies
+- [Firacode Font](https://github.com/tonsky/FiraCode) - Monospaced font with dev visual
