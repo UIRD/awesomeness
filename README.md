@@ -39,6 +39,7 @@ repository of free utilities adopted by UIRD
 - [Modular Scale](https://www.modularscale.com/) - Sample scales of typography
 - [Practical Typography](https://practicaltypography.com/) - Online book/guide of typography
 - [TypeWorlf](https://www.typewolf.com/) - reference of sites with cool typography
+- [HTML Arrows](https://www.toptal.com/designers/htmlarrows/) - reference of codification to use symbols in HTML
 
 
 ## Testing and Mocks
