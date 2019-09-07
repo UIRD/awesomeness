@@ -48,6 +48,7 @@ repository of free utilities adopted by UIRD
 - https://reqres.in/ - mock API
 - https://crontab.guru/ - check cron tab syntax
 - https://webhook.site/ - temporary webhook, to test webhook integrations
+- https://www.fontspring.com/matcherator?token=ihjn5svajq02ja95 - tries to identify the font based on an image
 
 ## Open Data
 - https://www.openml.org/
