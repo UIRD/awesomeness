@@ -40,6 +40,7 @@ repository of free utilities adopted by UIRD
 - [Practical Typography](https://practicaltypography.com/) - Online book/guide of typography
 - [TypeWorlf](https://www.typewolf.com/) - reference of sites with cool typography
 - [HTML Arrows](https://www.toptal.com/designers/htmlarrows/) - reference of codification to use symbols in HTML
+- [Font Joy](https://fontjoy.com) - Generates fonts combination 
 
 
 ## Testing and Mocks
