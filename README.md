@@ -30,6 +30,9 @@ repository of free utilities adopted by UIRD
 - [MixKit](https://mixkit.co/) - free videos assets
 - [Pexels](https://www.pexels.com/) - free stock images
 - [Pexels Videos](https://www.pexels.com/videos/) - free videos assets
+- [Pixabay](https://pixabay.com) - free stock images
+- [Picjumbo](https://picjumbo.com) - free stock images
+- [Stocksnap](https://stocksnap.io) - free stock images
 - [Unsplash](https://unsplash.com/) - free stock images
 
 ### Typography
