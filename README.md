@@ -17,6 +17,7 @@ repository of free utilities adopted by UIRD
 - https://github.com/picturepan2/devices.css - css simulating devices
 - https://www.cssmatic.com/ - generators for bords, noise, ...
 - [Hero patterns](http://www.heropatterns.com/) - background pattern generator
+- [Image Compressor](https://imagecompressor.com) - Image compressor
 
 ### Color
 - [Adobe Colors](https://color.adobe.com/pt/create/color-wheel/) - get palete from selecting colors from wheel
