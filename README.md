@@ -45,7 +45,7 @@ repository of free utilities adopted by UIRD
 - [TypeWorlf](https://www.typewolf.com/) - reference of sites with cool typography
 - [HTML Arrows](https://www.toptal.com/designers/htmlarrows/) - reference of codification to use symbols in HTML
 - [Font Joy](https://fontjoy.com) - Generates fonts combination 
-
+- [GooFonts](https://goofonts.com) - Tagged fonts
 
 ## Testing and Mocks
 - https://via.placeholder.com/ - mock placeholder images adding `/width x height`
