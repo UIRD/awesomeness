@@ -56,10 +56,15 @@ repository of free utilities adopted by UIRD
 - https://www.fontspring.com/matcherator?token=ihjn5svajq02ja95 - tries to identify the font based on an image
 
 ## Open Data
-- https://www.openml.org/
-- https://any-api.com/
-- https://github.com/toddmotto/public-apis
+- [Any API](https://any-api.com/)
+- [OpenML](https://www.openml.org/)
+- [Kaggle](https://www.kaggle.com/)
+- [MachineLearningMastery](https://machinelearningmastery.com/standard-machine-learning-datasets/)
+- [TODO public APIs](https://github.com/toddmotto/public-apis)
 
+### Brazil Governement Data
+- [Dados Gov](http://dados.gov.br/)
+- [Justica Gov](http://www.justica.gov.br/dados-abertos)
 
 ## JS Plugins
 - http://hgoebl.github.io/mobile-detect.js/
